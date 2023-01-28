@@ -1,6 +1,6 @@
 ---
 marp: true
-paginate: true
+paginate: false
 author: John Doe
 title: John Doe
 theme: resume
