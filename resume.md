@@ -118,7 +118,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel t
 
 - Teamwork
 - Communication
-- Problem Solving
+- Problem&nbsp;Solving
 
 </div>
 </div>

@@ -6,7 +6,7 @@
 
 ### Setup
 
-Install dependencies:
+Install dependencies (make you have [actively supported version](https://endoflife.date/nodejs) of `node`installed, in this case version 14 or higher is required):
 
 ```bash
 make install
